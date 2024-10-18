@@ -26,8 +26,8 @@ The **Ship Sinking Game** is a simple implementation of the popular battleship b
 ## Setup
 
 1. Clone the repository:
-git clone https://github.com/your-username/ship-sinking-game.git
-cd ship-sinking-game
+https://github.com/dogukanveziroglu/ShipSinkingGame.git
+cd ShipSinkingGame
 
 2. Compile the Java files:
 javac Main.java
