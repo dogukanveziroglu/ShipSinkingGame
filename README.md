@@ -1,6 +1,8 @@
 # Ship Sinking Game
 
-A classic ship sinking game developed in Java, where players strategically place ships on a board and attempt to sink the opponent’s fleet by guessing their ship positions.
+> 10 yaşındayken kendi kendime yazdığım bir oyundu.
+
+A classic ship sinking game developed in Java, where players strategically place ships on a board and attempt to sink the opponent's fleet by guessing their ship positions.
 
 ## Table of Contents
 
